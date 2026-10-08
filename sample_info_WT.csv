@@ -1,0 +1,10 @@
+﻿sample,sample_type,group,replicate
+S1,Suspension,KTX_0.5,1
+S2,Suspension,KTX_0.5,2
+S3,Suspension,KTX_0.5,3
+S1,Suspension,KTX_1.5,1
+S2,Suspension,KTX_1.5,2
+S3,Suspension,KTX_1.5,3
+U1,Suspension,DMSO,1
+U2,Suspension,DMSO,2
+U3,Suspension,DMSO,3

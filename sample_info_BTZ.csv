@@ -1,0 +1,13 @@
+﻿sample,sample_type,group,replicate
+A-Treated-A1,Adherent,KTX_0.5,1
+A-Treated-A2,Adherent,KTX_0.5,2
+A-Treated-B1,Adherent,KTX_1.5,1
+A-Treated-B2,Adherent,KTX_1.5,2
+A-Untreated-1,Adherent,DMSO,1
+A-Untreated-2,Adherent,DMSO,2
+S-Treated-A1,Suspension,KTX_0.5,1
+S-Treated-A2,Suspension,KTX_0.5,2
+S-Treated-B1,Suspension,KTX_1.5,1
+S-Treated-B2,Suspension,KTX_1.5,2
+S-Untreated-1,Suspension,DMSO,1
+S-Untreated-2,Suspension,DMSO,2
